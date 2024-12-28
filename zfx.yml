@@ -1,3 +1,6 @@
+# Custom theme based on Vscode Default Dark Material
+# https://docs.warp.dev/appearance/custom-themes
+
 accent:
   top: '#505050'
   bottom: '#707070'
