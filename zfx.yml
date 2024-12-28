@@ -1,0 +1,32 @@
+accent:
+  top: '#505050'
+  bottom: '#707070'
+  left: '#505050'
+  right: '#707070'
+background: 
+  top: '#1a1a1a'
+  bottom: '#000000'
+  left: '#1a1a1a'
+  right: '#000000'
+foreground: "#eeffff"
+cursor: '#FFFFFF' 
+details: darker
+terminal_colors:
+  bright:
+    black: "#4a4a4a"
+    blue: "#82aaff"
+    cyan: "#89ddff"
+    green: "#c3e88d"
+    magenta: "#c792ea"
+    red: "#ff5370"
+    white: "#ffffff"
+    yellow: "#ffcb6b"
+  normal:
+    black: "#000000"
+    blue: "#82aaff"
+    cyan: "#89ddff"
+    green: "#c3e88d"
+    magenta: "#c792ea"
+    red: "#ff5370"
+    white: "#ffffff"
+    yellow: "#ffcb6b"
